@@ -1,7 +1,7 @@
 # Lista de Tarefas
 
 ### [Visitar Projeto](https://listadetarefas-luiz2k.vercel.app/)
-Acesse também o repositório do [Front-end](https://github.com/luiz2k/lista-de-tarefas)
+Acesse também o repositório do [Front-end](https://github.com/luiz2k/lista-de-tarefas__web)
 
 ---
 
